@@ -1,4 +1,4 @@
-`code --install-extension aaron-bond.better-comments
+code --install-extension aaron-bond.better-comments
 code --install-extension alefragnani.Bookmarks
 code --install-extension alexandersage.angular1-code-snippets
 code --install-extension almenon.arepl
@@ -105,4 +105,4 @@ code --install-extension wholroyd.jinja
 code --install-extension wmaurer.vscode-jumpy
 code --install-extension xabikos.JavaScriptSnippets
 code --install-extension zhuangtongfa.Material-theme
-code --install-extension Zignd.html-css-class-completion`
+code --install-extension Zignd.html-css-class-completion
